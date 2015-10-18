@@ -1,0 +1,852 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201112 will be lost/reset.
+# Last config file used to build this data file was /home/tracyham/tmp/awstats/awstats.tracyhamer.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1974                
+POS_TIME 2632                
+POS_VISITOR 22934               
+POS_DAY 24299               
+POS_DOMAIN 3368                
+POS_LOGIN 3758                
+POS_ROBOT 3913                
+POS_WORMS 4275                
+POS_EMAILSENDER 4406                
+POS_EMAILRECEIVER 4549                
+POS_SESSION 24746               
+POS_SIDER 24924               
+POS_FILETYPES 4684                
+POS_OS 4875                
+POS_BROWSER 5012                
+POS_SCREENSIZE 5265                
+POS_UNKNOWNREFERER 5339                
+POS_UNKNOWNREFERERBROWSER 5467                
+POS_ORIGIN 5549                
+POS_SEREFERRALS 5683                
+POS_PAGEREFS 5827                
+POS_SEARCHWORDS 6046                
+POS_KEYWORDS 6198                
+POS_MISC 2296                
+POS_ERRORS 6257                
+POS_CLUSTER 3614                
+POS_SIDER_404 6343                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120101181308 1 0 3963049255658
+FirstTime 0
+LastTime 20111230120853
+LastUpdate 20120101231436 1 0 0 0 0
+TotalVisits 41                  
+TotalUnique 33                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 33                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 3 125369 9 10 230118
+1 1 5 73660 7 8 151349
+2 2 38 2815879 5 6 19196
+3 0 0 0 11 12 75523
+4 0 0 0 5 6 77238
+5 1 1 93851 52 54 257560
+6 3 3 171 27 28 240740
+7 2 2 38392 6 7 192644
+8 2 38 3382245 6 8 258153
+9 5 7 38563 240 241 360322
+10 5 5 38563 841 842 93851
+11 0 0 0 2 2 0
+12 8 8 7409141 111 111 132243
+13 5 50 3006528 46 50 19196
+14 5 39 3375593 32 33 209027
+15 5 5 38563 107 107 19196
+16 5 5 38563 68 69 102848
+17 0 0 0 5 6 332633
+18 10 113 3511311 1050 1053 19196
+19 2 72 6719275 44 48 19196
+20 8 43 3520158 48 82 3308585
+21 4 4 19367 46 48 50714
+22 9 44 3398435 52 54 104660
+23 1 1 7332186 6 7 281842
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+us 34 398 41140157
+de 15 15 115689
+my 8 8 38734
+cn 6 6 342
+ph 5 5 38563
+es 5 5 38563
+it 3 3 171
+eu 3 4 144565
+nl 2 2 38392
+br 1 37 3363049
+tw 1 1 19196
+ca 1 1 19196
+fr 1 1 19196
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bot[\s_+:,\.\;\/\\-] 44 857433 20111231170218 0
+no_user_agent 34 3308585 20111218201349 0
+msnbot\-media 28 2358494 20111228171857 0
+googlebot 11 0 20111231191528 0
+spider 6 12322 20111229044855 0
+netcraft 1 19196 20111229235555 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 15 135542 0 0
+png 349 28535837 0 0
+pdf 6 469255 0 0
+pl 36 2052 0 0
+zip 2 14664372 0 0
+html 41 748644 0 0
+js 26 379278 0 0
+jpg 11 40833 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 9
+macosx 334
+winxp 10
+winlong 2
+win2003 4
+linuxdebian 1
+Unknown 2
+linux 42
+linuxfedora 2
+win2008 89
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 14
+chrome15.0.874.121 74
+msie8.0 1
+msie6.0 3
+firefox5.0 155
+mozilla 3
+msie7.0 11
+chrome12.0.742.91 1
+firefox8.0 88
+chrome16.0.912.63 70
+firefox7.0.1 36
+firefox3.5.3 2
+safari 5
+safari5.0.5 1
+safari5.1.1 36
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/4.0_(compatible;) 20111206092428
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 79 82
+From1 0 0
+From2 0 0
+From3 2 2
+From4 4 402
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://www.linkedin.com/profile/view 1 1
+http://verticalpigeon.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 2752 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 526
+/include/mysql.php 2 -
+/includes/db_adodb.php 2 -
+/skin/zero_vote/setup.php 4 -
+/extras/poll/poll.php 2 -
+/modules/phpThumb/phpThumb.php 8 -
+/adlayer.php 2 -
+/cmd.php 2 -
+/joomla/index.php 282 -
+/Farsi1/index.php 2 -
+/artmedic-kleinanzeigen-path/index.php 2 -
+/includes/phpdig/includes/config.php 2 -
+/=http://62.141.58.186/google.txt 1 -
+/blend_data/blend_common.php 2 -
+/pm/lib.inc.php 8 -
+/Sources/Packages.php 2 -
+/modules/Forums/admin/admin_users.php 4 -
+/photoalbums/main.php 3 -
+/2007/administrator/components/com_joomlaflashfun/admin.joomlaflashfun.php 1 -
+/modules/xgallery/upgrade_album.php 10 -
+/admin/plog-admin-functions.php 2 -
+/gallery/captionator.php 4 -
+/PhotoGal/ops/gals.php 2 -
+/forums/index.php 2 -
+/calendar/index.php 2 -
+/links.php 2 -
+/forum/impex/ImpExData.php 2 -
+/admin_modules/admin_module_delimage.inc 4 -
+/cgi/awstats/awstats.pl 12 -
+/shop/ 6 -
+/index1.php 4 -
+/photos/main.php 3 -
+/assets/components/phpthumb/phpThumb.php 8 -
+/mambots/editors/tinymce/jscripts/tiny_mce/plugins/ibrowser/scripts/phpThumb/phpThumb.php 8 -
+/wp-content/themes/comfy-plus/scripts/phpThumb/phpThumb.php 16 -
+/eyeos/desktop.php 2 -
+/fav.php 2 -
+/My_eGallery/public/displayCategory.php 4 -
+/phpgedview/help_text_vars.php 2 -
+/nukebrowser.php 2 -
+/admin/addentry.php 2 -
+/index.php/main.php 4 -
+/apps/phpAlbum/main.php 12 -
+/includes/db_connect.php 2 -
+/phpalbum/main.php 12 -
+/pollvote/pollvote.php 6 -
+/sources/post.php 4 -
+/mail_autocheck.php 2 -
+/pmwiki 2 -
+/mail/index.php 2 -
+/classified_right.php 2 -
+/modules/module_db.php 2 -
+/site.php 10 -
+/e107/e107_handlers/secure_img_render.php 10 -
+/content/phpthumb/phpthumb.php 8 -
+/derniers_commentaires.php 4 -
+/modules/newbb_plus/class/forumpollrenderer.php 6 -
+/forum/bb_admin.php 2 -
+/PHPNews/auth.php 2 -
+/path/include/SQuery/gameSpy2.php 2 -
+/topsites/sources/lostpw.php 2 -
+/inc/header.php/step_one.php 6 -
+/modernbill/samples/news.php 2 -
+/Blog/BlogModel.php 2 -
+/album_portal.php 4 -
+/main.php 28 -
+/awstatstotals.php 12 -
+/galeri/index.php 2 -
+/modules/Forums/admin/admin_avatar.php 2 -
+/include/global.php 2 -
+/forum/addpost_newpoll.php 2 -
+/htmltonuke.php 4 -
+/extensions/moblog/moblog_lib.php 2 -
+/toplist/sources/join.php 2 -
+/modules/4nAlbum/public/displayCategory.php 8 -
+/pathofhostadmin/ 2 -
+/albums/main.php 3 -
+/protection.php 4 -
+/src/index_passwd-admin.inc.php 2 -
+/modules/vwar/admin/admin.php 2 -
+/modules/admin/vw_usr_roles.php 2 -
+/cgi-bin/awstats.pl 14 -
+/forums/impex/ImpExData.php 2 -
+/zboard/zboard.php../../../../../../../proc/self/environ%00 2 -
+/web_statistics//calendar/tools/send_reminders.php 2 -
+/include/init.inc.php 2 -
+/live-support/inc/pipe.php 4 -
+/dotproject/modules/tasks/addedit.php 4 -
+/addevent.inc.php 2 -
+/allmylinks/include/footer.inc.php 4 -
+/shannen/index.php 2 -
+/sendmail.php 2 -
+/addsite.php 2 -
+/admin_modules/admin_module_rotimage.inc 4 -
+/Forums/bb_smilies.php 2 -
+/components/com_hotornot2/phpThumb/phpThumb.php 8 -
+/include/print_category.php 2 -
+/ews/q-news.php 2 -
+/armygame.php 2 -
+/modules/My_eGallery/public/displayCategory.php 8 -
+/phpGedView/individual.php 2 -
+/forums/addpost_newpoll.php 2 -
+/phorum/plugin/replace/plugin.php 4 -
+/trg_news30/trgnews/install/article.php 2 -
+/tell_friend.php 2 -
+/bug_sponsorship_list_view 2 -
+/auth/auth.php 4 -
+/include/db.php 4 -
+/admin/config_settings.tpl.php 2 -
+/forum/viewtopic.php 2 -
+/phpThumb.php 8 -
+/osticket/include/main.php 2 -
+/cgi-bin/main.php 2 -
+/backend/addons/links/index.php 2 -
+/modules/My_eGallery/public/imagen.php 2 -
+/libs/phpThumb/phpThumb.php 8 -
+/src/index_leftnavbar.inc.php 2 -
+/topsites/config.php 2 -
+/chat/messagesL.php3 2 -
+/become_editor.php 2 -
+/achievo/atk/javascript/class.atkdateattribute.js 2 -
+/cgi-bin//classes/adodbt/sql.php 2 -
+/qnews/q-news.php 2 -
+/modules/public/calendar.php 2 -
+/forum/admin/actions/del.php 2 -
+/nucleus/libs/globalfunctions.php 2 -
+/ 30 -
+/includes/header.php 8 -
+/live/inc/pipe.php 2 -
+/auth/auth_phpbb/phpbb_root_path=../../../../../../../proc/self/environ%00 4 -
+/contacts.php 4 -
+/community/modules/agendax/addevent.inc.php 2 -
+/sources/lostpw.php 2 -
+/stats/awstats.pl 12 -
+/staticfiles/phpThumb/phpThumb.php 8 -
+/pic/main.php 3 -
+/include/mssql7.php 2 -
+/wp-content/themes/wp-max/scripts/phpThumb/phpThumb.php 16 -
+/classes/adodbt/sql.php 2 -
+/phpgreetz/content.php 2 -
+/include/help.php 2 -
+/index.cgiupgrade_album.ph 2 -
+/modules/Forums/admin/admin_disallow.php 2 -
+/register.php 2 -
+/hcl/inc/pipe.php 4 -
+/topsites/sources/join.php 2 -
+/img/main.php 3 -
+/browse.php 2 -
+/src/album.class.php 4 -
+/modify.php 2 -
+/modules/coppermine/themes/default/theme.php 12 -
+/default.php 6 -
+/toplist/sources/lostpw.php 2 -
+/include/main.php 2 -
+/forums/ubbt.inc.php 2 -
+/components/com_alphacontent/assets/phpthumb/phpThumb.php 8 -
+/&quot 18 http://www.tracyhamer.net/
+/topsite/sources/join.php 2 -
+/bad_link.php 2 -
+/modules/My_eGallery/public/inc/ 2 -
+/thumb/phpThumb.php 8 -
+/classes.php 2 -
+/cutenews/comments.php 2 -
+/b2-tools/gm-2-b2.php 4 -
+/web_statistics//coppercop/theme.php 2 -
+/mainfile.php 4 -
+/user/ldap_example.php 2 -
+/webcalendar/tools/send_reminders.php 2 -
+/forum/auth/auth_phpbb/phpbb_root_path=../../../../../../../proc/self/environ%00 2 -
+/admin/tiny_mce/plugins/ibrowser/scripts/phpThumb/phpThumb.php 8 -
+/components/com_simpleboard/image_upload.php 2 -
+/skin/zero_vote/ask_password.php 2 -
+/db.php 4 -
+/components/com_alphauserpoints/assets/phpThumb/phpThumb.php 8 -
+/modules/My_eGallery/index.php 4 -
+/forum/install.php 2 -
+/src/image-gd.class.php 4 -
+/library/lib.php 10 -
+/catalog/includes/include_once.php 2 -
+/modules/projects/vw_files.php 2 -
+/forum/toplist.php 2 -
+/modules/center/admin/accounts/process.php 2 -
+/cgi-bin/awstats/awstats.pl 12 -
+/aMember/plugins/db/mysql/mysql.inc.php 2 -
+/phpThumb/phpThumb.php 8 -
+/wp-content/plugins/com-resize/phpthumb/phpThumb.php 8 -
+/religions/faq.php 2 -
+/includes/include_onde.php 4 -
+/add.php 2 -
+/forum/admin/addentry.php 2 -
+/impex/ImpExData.php 4 -
+/forum/include/common.php 2 -
+/apps/phpalbum/main.php 12 -
+/modules/coppermine/themes/maze/theme.php 4 -
+/class/phpthumb/phpThumb.php 8 -
+/include/common.php 2 -
+/top_rated.php 2 -
+/pick.php 2 -
+/web_statistics/modules/coppermine/themes/default/theme.php 2 -
+/modules/vWar_Account/includes/functions_common.php 2 -
+/modules/foro/includes/functions_admin.php 2 -
+/admin_modules/admin_module_captions.inc 4 -
+/includes/dbal.php 2 -
+/class.mysql.php 2 -
+/claroline/auth/ldap/authldap.php 2 -
+/allmylinks/include/info.inc.php 4 -
+/list.php 2 -
+/Gallery/displayCategory.php 4 -
+/pivot/modules/module_db.php 12 -
+/displayCategory.php 2 -
+/demo/includes/init.php 4 -
+/modules/agendax/addevent.inc.php 10 -
+/auction/auction_common.php 2 -
+/secure.php 2 -
+/global/phpthumb/phpThumb.php 8 -
+/includes/pafiledb_constants.php 2 -
+/agenda.php3 2 -
+/components/com_extcalendar/admin_events.php 2 -
+/modules/public/date_format.php 2 -
+/show.php 2 -
+/votebox.php 2 -
+/vuln.php 2 -
+/modules/news/archivednews.php 2 -
+/dotproject/modules/projects/addedit.php 4 -
+/agendax/addevent.inc.php 6 -
+/phpBB/includes/pafiledb_constants.php 2 -
+/print.php 2 -
+/manager/frontinc/prepend.php 2 -
+/coppermine/thumbnails.php 2 -
+/scripts/awstats.pl 12 -
+/path_of_cpcommerce/_functions.php 4 -
+/captionator.php 2 -
+/web_statistics//modules/My_eGallery/public/displayCategory.php 2 -
+/pafiledb/includes/pafiledb_constants.php 2 -
+/web_statistics//include/write.php 2 -
+/cmd/product_info.php/products_id/1622/shop_content.php 2 -
+/coppercop/theme.php 6 -
+/power_search.php 2 -
+/review.php 2 -
+/forum/ubbt.inc.php 2 -
+/apc-aa/cached.php3 2 -
+/phpopenchat/contrib/yabbse/poc.php 4 -
+/_head.php 2 -
+/ladders/stats.php 2 -
+/components/com_smf/smf.php 2 -
+/search.php 4 -
+/al_initialize.php 2 -
+/xcomic/initialize.php 2 -
+/apc-aa/cron.php3 2 -
+/rating.php 2 -
+/calendar/events/header.inc.php 4 -
+/includes/class_template.php 2 -
+/dotproject/modules/tasks/viewgantt.php 4 -
+/gnu3/index.php 4 -
+/detail.php 2 -
+/admin/common.inc.php 2 -
+/photoalbum/main.php 3 -
+/index.php 438 -
+/modules/Forums/admin/admin_board.php 4 -
+/nphp/nphpd.php 4 -
+/cgi-bin//gadgets/Blog/BlogModel.php 2 -
+/visitorupload.php 2 -
+/admin_modules/admin_module_edit.inc.php 4 -
+/admin.php 4 -
+/modules/projects/gantt.php 2 -
+/phpatm/index.php 2 -
+/modules/PNphpBB2/includes/functions_admin.php 2 -
+/editsite.php 2 -
+/CubeCart/includes/orderSuccess.inc.php 2 -
+/modules/xoopsgallery/upgrade_album.php 8 -
+/calendar/functions/popup.php 4 -
+/modules/newbb_plus/class/class.forumposts.php 2 -
+/zboard/include/write.php 2 -
+/includes/include_once.php 4 -
+/show_archives.php 4 -
+/123flashchat.php 1 -
+/gadgets/Blog/BlogModel.php 2 -
+/lire.php 2 -
+/expanded.php 2 -
+/infusions/last_seen_users_panel/last_seen_users_panel.php 2 -
+/admin_modules/admin_module_delcomments. 4 -
+/presse/stampa.php3 2 -
+/photo/main.php 3 -
+/images/main.php 3 -
+/includes/kb_constants.php 2 -
+/gallery/index.php 2 -
+/GradeMap/index.php 6 -
+/claroline/auth/extauth/drivers/ldap.inc.php 2 -
+/admin/configset.php 4 -
+/include/postgres65.php 2 -
+/includes/session.php 2 -
+/research/boards/encapsbb-0.3.2_fixed/index_header.php 2 -
+/vCard/admin/define.inc.php 2 -
+/modules/coppermine/themes/coppercop/theme.php 6 -
+/src/index_overview.inc.php 4 -
+/upgrade_album.php 2 -
+/sphider/admin/configset.php 4 -
+/forum/auth/auth.php 2 -
+/includes/calendar.php 6 -
+/dkp/includes/dbal.php 2 -
+/cgi-bin//admin.php 2 -
+/docebo/modules/credits/help.php 2 -
+/public_includes/pub_popup/popup_finduser.php 2 -
+/local/investing_industrialeasta 2 -
+/aWebNews/visview.php 2 -
+/includes/orderSuccess.inc.php 2 -
+/application.php 2 -
+/stats/include/write.php 2 -
+/sources/join.php 2 -
+/modules/Forums/admin/admin_forum_prune.php 2 -
+/gnu/index.php 4 -
+/userlist.php 2 -
+/ashnews.php 10 -
+/awstats/awstatstotals.php 12 -
+/modules/Forums/admin/admin_forums.php 2 -
+/wp-content/themes/fama/scripts/phpThumb/phpThumb.php 8 -
+/modules/tasks/gantt.php 2 -
+/admin/lang.php 2 -
+/arpuivo.php 2 -
+/webmail/lib/emailreader_execute_on_ea 2 -
+/vwar/admin/admin.php 2 -
+/modules/Forums/admin/index.php 2 -
+/admin_modules/admin_module_deldir.inc.p 4 -
+/os/pointer.php 2 -
+/user/agora_user.php 2 -
+/step_one.php 2 -
+/phpshop/index.php 4 -
+/dotproject/modules/projects/vw_files.php 4 -
+/send_pwd.php 2 -
+/yappa-ng/src/index_overview.inc.php 2 -
+/robots.txt 71 -
+/gui/include/sql.php 2 -
+/calendar/embed/day.php 2 -
+/modules/Forums/admin/admin_styles.php 4 -
+/calendar/setup/header.inc.php 4 -
+/master.php 2 -
+/include/oci8.php 2 -
+/zentrack/index.php 8 -
+/src/image.class.php 4 -
+/pollensondage.inc.php 2 -
+/cpcommerce/_functions.php 6 -
+/phpdig/includes/config.php 2 -
+/globals.php3 2 -
+/cgi-bin//include/write.php 2 -
+/includes/setup.php 6 -
+/agenda2.php3 2 -
+/phpgwapi/setup/tables_update.inc.php 4 -
+/forum/language/lang_english/lang_activity.php 2 -
+/mwchat/libs/start_lobby.php 4 -
+/includes/page_header.php 2 -
+/include/livre_include.php 4 -
+/poll/admin/common.inc.php 4 -
+/awstats/awstats.pl 13 -
+/calendar/add_event.php 2 -
+/forum/misc.php 2 -
+/language/lang_english/lang_activity.php 2 -
+/dotproject/modules/projects/view.php 4 -
+/phpcoin/config.php 2 -
+/ladder/stats.php 2 -
+/phonebook.php 2 -
+/awstatstotals/awstatstotals.php 12 -
+/src/index_image.inc.php 2 -
+/login.php 2 -
+/phpBB2/admin/admin_cash.php 2 -
+/admin/objects.inc.php4 2 -
+/wagora/extras//quicklist.php 2 -
+/fclick/show.php 2 -
+/coppermine/themes/maze/theme.php 4 -
+/phpWebLog/include/init.inc.php 2 -
+/admin/scripts/tinymce/jscripts/tiny_mce/plugins/ibrowser/scripts/phpThumb/phpThumb.php 8 -
+/myPHPCalendar/admin.php 10 -
+/block.php 2 -
+/family/phpgedview/index.php 2 -
+/cms/plugins/content/jthumbs/includes/phpThumb.php 8 -
+/apa_phpinclude.inc.php 2 -
+/forum/index.php 2 -
+/page.php 2 -
+/components/com_flexicontent/librairies/phpthumb/phpThumb.php 8 -
+/wp-content/themes/victore/phpthumb/phpThumb.php 8 -
+/catalog/ 6 -
+/forums/bb_admin.php 2 -
+/p_uppc_francais/pages_php/p_aidcon_conseils/index.php 2 -
+/modules/coppermine/include/init.inc.php 8 -
+/include/write.php 6 -
+/bazar/classified_right.php 2 -
+/4images/index.php 3 -
+/_conf/core/common-tpl-vars.php 2 -
+/stats/modules/My_eGallery/index.php 2 -
+/forums/includes/kb_constants.php 2 -
+/zadmin/tiny_mce/plugins/ibrowser/scripts/phpThumb/phpThumb.php 8 -
+/index2.php 16 -
+/gb/form.inc.php3 2 -
+/cgi-bin/install/index.php 2 -
+/shoutbox/expanded.php 12 -
+/modules/Forums/admin/admin_mass_email.php 2 -
+/include/new-visitor.inc.php 10 -
+/web_statistics//tools/send_reminders.php 2 -
+/invoice.php 2 -
+/item4 1 http://www.tracyhamer.net/item4
+/cgi-bin/include/print_category.php 2 -
+/_wk/wk_lang.php 2 -
+/item1 1 http://www.tracyhamer.net/item1
+/pics/main.php 3 -
+/inc/authform.inc.php 4 -
+/inc/pipe.php 8 -
+/html/affich.php 4 -
+/loginout.php 2 -
+/forum/includes/kb_constants.php 2 -
+/quick_reply.php 2 -
+/user_search.php 2 -
+/modules.php 4 -
+/helpcenter/inc/pipe.php 4 -
+/catalog/shopping_cart.php 2 -
+/support/faq/inc/pipe.php 4 -
+/get_rated.php 2 -
+/gallery/setup/index.php 2 -
+/gallery/phpThumb/phpThumb.php 8 -
+/phpAlbum/main.php 12 -
+/email.php 2 -
+/stat/awstatstotals.php 12 -
+/ipchat.php 2 -
+/common/scripts/phpThumb/phpThumb.php 8 -
+/new.php 2 -
+/journal.php 2 -
+/modules/vWar_Account/includes/get_header.php 2 -
+/dotproject/modules/files/index_table.php 4 -
+/inc/shows.inc.php 4 -
+/22_ultimate/templates/header.php 2 -
+/skin/zero_vote/error.php 2 -
+/ubbthreads/addpost_newpoll.php 2 -
+/album/main.php 3 -
+/include/msql.php 2 -
+/wp-content/themes/max/scripts/phpThumb/phpThumb.php 8 -
+/include/footer.inc.php 2 -
+/modules/My_eGallery/public//inc/ 2 -
+/modules/credits/help.php 2 -
+/admin/includes/classes/spaw/spaw_control.class.php 2 -
+/convert-date.php 4 -
+/support/mailling/maillist/inc/initdb.php 6 -
+/_functions.php 4 -
+/manager/phpThumb/phpThumb.php 8 -
+/calendar/calendar.php 4 -
+/bb_lib/checkdb.inc.php 4 -
+/src/show_random.inc.php 4 -
+/Popper/index.php 2 -
+/phpBB/admin/admin_styles.php 4 -
+/learnlinc/clmcpreload.php 2 -
+/install.php 2 -
+/components/com_videodb/core/videodb.class.xml.php 2 -
+/new/bbs//include/write.php 2 -
+/wp-content/themes/Comfy/scripts/phpThumb/phpThumb.php 8 -
+/cgi-bin/stats/awstats.pl 12 -
+/phpprojekt/lib/authform.inc.php 2 -
+/mailing_list.php 2 -
+/modules/calendar/index.php 2 -
+/livehelp/inc/pipe.php 4 -
+/modules/TotalCalendar/index.php 2 -
+/library/editor/editor.php 8 -
+/wp-content/themes/redcarpet/scripts/phpthumb/phpthumb.php 16 -
+/inc/step_one_tables.php 2 -
+/lib/phpThumb/phpThumb.php 8 -
+/magicforum/misc.php 2 -
+/web_statistics//skin/zero_vote/error.php 2 -
+/template.php 4 -
+/forums.php 2 -
+/calogic/reconfig.php 2 -
+/ashheadlines.php 4 -
+/event/index.php 2 -
+/user_detail.php 2 -
+/index.inc.php 4 -
+/forum/ubbthreads.php 2 -
+/cgi-bin/calendar.pl 2 -
+/eshow.php 2 -
+/zb41/include/write.php 2 -
+/r.php 2 -
+/inc/formmail.inc.php 2 -
+/components/com_loudmounth/includes/abbc/abbc.class.php 2 -
+/forums/toplist.php 2 -
+/admin/phpThumb/phpThumb.php 8 -
+/skin/zero_vote/login.php 2 -
+/stats.php 2 -
+/ubbthreads/ubbt.inc.php 2 -
+/modules/AllMyGuests/signin.php 2 -
+/src/main.inc.php 4 -
+/mt-comments.cgi 2 -
+/admin/upload/phpThumb.php 8 -
+/in.php 2 -
+/iframe.php 2 -
+/phpMyChat/chat/messagesL.php3 2 -
+/bbs/include/write.php 2 -
+/jaf/index.php 4 -
+/include/authform.inc.php 4 -
+/phorum/admin/actions/del.php 2 -
+/eblog/blog.inc.php 4 -
+/components/com_hotornot2/phpthumb/phpThumb.php 16 -
+/ideabox/include.php 4 -
+/eqdkp/includes/dbal.php 2 -
+/gallery/thumbnails.php 2 -
+/joomla/index2.php 2 -
+/gallery.php=../../../../../../../proc/self/environ%00 2 -
+/rss.php 2 -
+/wp-content/plugins/ione-core/phpthumb/phpThumb.php 8 -
+/item3 1 http://www.tracyhamer.net/item3
+/item2 1 http://www.tracyhamer.net/item2
+/calendar/setup/setupSQL.php 4 -
+/mantis/login_page.php 4 -
+/config.php 2 -
+/modules/mod_mainmenu.php 12 -
+/modules/projects/gantt2.php 2 -
+/js/tiny_mce/plugins/ibrowser/scripts/phpThumb/phpThumb.php 8 -
+/install/index.php 6 -
+/modules/Forums/admin/admin_smilies.php 2 -
+/help/faq/inc/pipe.php 4 -
+//block.php 2 -
+/becommunity/community/index.php 8 -
+/phpBazar/classified_right.php 2 -
+/ACalendar/embed/day.php 2 -
+/calendar/events/datePicker.php 4 -
+/modules/Forums/bb_smilies.php 2 -
+/gallery/init.php 4 -
+/stats/tools/send_reminders.php 2 -
+/announcements.php 2 -
+/oneadmin/config.php 2 -
+/yabbse/Sources/Packages.php 4 -
+/user.php 2 -
+/include/postgres.php 2 -
+/scgi/awstats/awstats.pl 12 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 33
+81.169.165.138 10 10 77126 20111217150455
+198.241.217.15 6 123 16453231 20111220142531
+202.84.119.208 5 5 38563 20111217161005
+122.255.96.164 5 5 38563 20111216221015
+89.140.20.218 5 5 38563 20111217092925
+85.10.204.194 5 5 38563 20111217102325
+8.21.4.254 4 4 76784 20111220142530
+209.62.90.162 3 3 171 20111211202923
+202.100.80.21 3 3 171 20111213184934
+211.167.110.2 3 3 171 20111214211527
+74.53.95.34 3 3 171 20111211144321
+85.88.195.35 3 3 171 20111204064629
+122.255.96.45 3 3 171 20111203225743
+198.80.42.100 3 106 3359701 20111212185141
+192.114.71.13 3 4 144565 20111218200645
+69.58.178.56 2 2 38392 20111211074127
+159.253.145.175 2 2 38392 20111224205832
+85.17.213.242 2 2 38392 20111230120853
+63.192.100.181 1 37 3363049 20111204191801
+72.94.249.38 1 1 19196 20111219134559
+38.99.82.203 1 5 73660 20111208015055
+99.52.202.79 1 1 7332186 20111212234359
+201.7.186.66 1 37 3363049 20111214081207
+66.103.61.161 1 1 19196 20111203080144
+67.188.29.4 1 36 3359701 20111215222646
+75.6.253.171 1 35 3356226 20111223194048
+62.160.254.71 1 1 19196 20111218212828
+38.100.21.17 1 2 31518 20111220005703
+69.172.133.104 1 1 93851 20111208184115
+207.46.12.211 1 1 93851 20111217004735
+72.48.91.4 1 35 3356226 20111215200541
+38.99.82.204 1 1 93851 20111208055118
+220.130.53.5 1 1 19196 20111203183208
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20111203 5 5 38563 3
+20111204 4 40 3363220 2
+20111206 2 40 2815879 2
+20111208 3 7 261362 3
+20111211 8 8 38734 3
+20111212 5 108 10711083 3
+20111213 4 4 7332357 2
+20111214 4 40 3363220 2
+20111215 2 71 6715927 2
+20111216 5 5 38563 1
+20111217 26 26 286666 6
+20111218 4 5 163761 3
+20111219 5 50 3006528 3
+20111220 3 38 3406940 3
+20111223 1 35 3356226 1
+20111224 2 2 38392 1
+20111230 2 2 38392 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 1
+0s-30s 38
+30s-2mn 1
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 41 748644 24 28
+/scgi-bin/stats/awstats.pl 12 684 0 6
+/scgi-bin/awstats/awstats.pl 12 684 0 0
+/scgi-bin/awstats.pl 12 684 12 0
+/resumeTracyHamer.pdf 6 469255 3 5
+/hsn.zip 2 14664372 2 2
+END_SIDER

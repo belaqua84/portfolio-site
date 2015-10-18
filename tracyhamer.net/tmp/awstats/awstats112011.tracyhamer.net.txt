@@ -1,0 +1,410 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201111 will be lost/reset.
+# Last config file used to build this data file was /home/tracyham/tmp/awstats/awstats.tracyhamer.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1974                
+POS_TIME 2645                
+POS_VISITOR 9596                
+POS_DAY 11607               
+POS_DOMAIN 3408                
+POS_LOGIN 3670                
+POS_ROBOT 3825                
+POS_WORMS 4163                
+POS_EMAILSENDER 4294                
+POS_EMAILRECEIVER 4437                
+POS_SESSION 12208               
+POS_SIDER 12414               
+POS_FILETYPES 4572                
+POS_OS 4755                
+POS_BROWSER 4910                
+POS_SCREENSIZE 5287                
+POS_UNKNOWNREFERER 5361                
+POS_UNKNOWNREFERERBROWSER 5489                
+POS_ORIGIN 5571                
+POS_SEREFERRALS 5708                
+POS_PAGEREFS 5874                
+POS_SEARCHWORDS 6063                
+POS_KEYWORDS 6291                
+POS_MISC 2309                
+POS_ERRORS 6418                
+POS_CLUSTER 3526                
+POS_SIDER_404 6518                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20111201092010 1 0 9090222412873
+FirstTime 20111101002754
+LastTime 20111128143442
+LastUpdate 20111201222737 1 0 0 0 0
+TotalVisits 73                  
+TotalUnique 36                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 55                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 46 634 17309311 7 144 317025
+1 38 777 14138671 7 89 174266
+2 123 992 34464270 9 293 1343615
+3 62 234 1659109 4 174 3628649
+4 0 0 0 5 16 1807075
+5 3 3 56145 3 18 1364631
+6 0 3 0 0 2 5726
+7 0 0 0 8 12 122831
+8 2 12 1427980 3 6 420229
+9 0 0 0 1 3 0
+10 0 0 0 0 3 219761
+11 7 177 16925231 2 9 19196
+12 1 37 3385658 4 7 38392
+13 6 127 71468 1 12 40582
+14 18 262 5098750 9 73 1403437
+15 1 37 3385658 5 14 1152846
+16 10 328 21143721 4 14 379660
+17 6 82 3377308 9 15 38392
+18 12 316 6567079 4 19 777536
+19 12 201 17251884 9 24 535171
+20 8 114 3585610 4 15 494559
+21 7 111 6997872 4 13 334923
+22 5 72 36949 2 7 380215
+23 2 35 3354401 4 8 84321
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 366 4511 155487371
+ru 2 42 4730508
+de 1 1 19196
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+googlebot 91 9641874 20111129170231 0
+[\s_+:,\.\;\/\\-]bot 39 2973283 20111127052456 0
+bot[\s_+:,\.\;\/\\-] 28 548097 20111129204500 0
+spider 3 19196 20111128023711 0
+no_user_agent 1 93851 20111125070051 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+php 2 35506 0 0
+css 275 1101937 0 0
+png 3235 147530533 0 0
+html 361 7135547 0 0
+pdf 6 563106 0 0
+jpg 115 186017 0 0
+js 560 3684429 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 10
+blackberry 1
+winlong 36
+winxp 264
+linux 64
+linuxfedora 1
+macosx 477
+winunknown 2
+win2003 2
+Unknown 85
+win2008 3622
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 21
+blackberry 1
+firefox5.0 182
+safari4.1.3 37
+firefox3.6.11 42
+chrome12.0.742 64
+chrome15.0.874.120 669
+firefox8.0 39
+firefox7.0.1 152
+firefox3.5.3 1
+opera9.80 1
+chrome15.0.874.121 155
+msie8.0 213
+firefox6.0.2 346
+mozilla 87
+msie7.0 6
+safari5.1 145
+firefox3.6.9 1
+msie9.0 73
+chrome15.0.874.106 2266
+safari5.1.1 38
+safari5.0.5 36
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/4.0_(compatible;) 20111129064022
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 351 428
+From1 0 0
+From2 8 8
+From3 2 2
+From4 8 4116
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 6 6
+yandex 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://www.linkedin.com/profile/view 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 4
+design+development 2
+tracy+hamer 2
+tracyhamer.net 2
+tracy+hamer+portfolio 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 6
+tracy 3
+hamer 3
+design 2
+development 2
+tracyhamer.net 2
+portfolio 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 25 1806737
+404 119 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 47
+/img/hdr-best-apps.png 1 http://www.tracyhamer.net/samTest.html
+/robots.txt 57 -
+/images/webTitle.png 2 http://www.tracyhamer.net/index.html
+/img/img-phone5.png 1 http://www.tracyhamer.net/samTest.html
+/img/img-glare1.png 1 http://www.tracyhamer.net/samTest.html
+/img/bg-freddie.jpg 1 http://www.tracyhamer.net/samTest.html
+/img/img-talent-fw.png 1 http://www.tracyhamer.net/samTest.html
+/img/hdr-ultrafast.png 1 http://www.tracyhamer.net/samTest.html
+/img/hdr-all-the-way.png 1 http://www.tracyhamer.net/samTest.html
+/img/lgo-att-lg.png 1 http://www.tracyhamer.net/samTest.html
+/img/video_icon.png 2 http://www.tracyhamer.net/aussieTest.html
+/img/img-vid-caption.png 1 http://www.tracyhamer.net/samTest.html
+/img/bg-apps.jpg 1 http://www.tracyhamer.net/samTest.html
+/samTest 1 -
+/img/bg-social.jpg 1 http://www.tracyhamer.net/samTest.html
+/img/hdr-watch.png 1 http://www.tracyhamer.net/samTest.html
+/img/bg-processor.jpg 1 http://www.tracyhamer.net/samTest.html
+/img/spr-quote-md.png 1 http://www.tracyhamer.net/samTest.html
+/images/aboutTitle.png 2 http://www.tracyhamer.net/index.html
+/img/bg-quote.png 1 http://www.tracyhamer.net/samTest.html
+/img/hdr-period.png 1 http://www.tracyhamer.net/samTest.html
+/img/spr-nav2.png 1 http://www.tracyhamer.net/samTest.html
+/img/blank.gif 1 http://www.tracyhamer.net/samTest.html
+/img/hdr-features.png 1 http://www.tracyhamer.net/samTest.html
+/images/marketingTitle.png 2 http://www.tracyhamer.net/index.html
+/img/img-phone2.png 1 http://www.tracyhamer.net/samTest.html
+/img/lgo-t-mobile-lg.png 1 http://www.tracyhamer.net/samTest.html
+/us/foresee/foresee-alive.js 7 http://www.tracyhamer.net/samTest.html
+/img/img-arrows.png 1 http://www.tracyhamer.net/samTest.html
+/img/hdr-brag.png 1 http://www.tracyhamer.net/samTest.html
+/img/bg-mediahub.jpg 1 http://www.tracyhamer.net/samTest.html
+/img/hdr-luminous.png 1 http://www.tracyhamer.net/samTest.html
+/img/img-phone4.png 1 http://www.tracyhamer.net/samTest.html
+/%20ForceRecrawl:%200 1 -
+/img/bg-reviews.jpg 1 http://www.tracyhamer.net/samTest.html
+/img/img-phone3.png 1 http://www.tracyhamer.net/samTest.html
+/img/hdr-action.png 1 http://www.tracyhamer.net/samTest.html
+/img/bg-landing.jpg 1 http://www.tracyhamer.net/samTest.html
+/img/img-phone7.png 1 http://www.tracyhamer.net/samTest.html
+/us/foresee/foresee-trigger.js 7 http://www.tracyhamer.net/samTest.html
+/index.php 1 http://tracyhamer.net/
+/img/img-phone6.png 1 http://www.tracyhamer.net/samTest.html
+/img/spr-quote-lg.png 1 http://www.tracyhamer.net/samTest.html
+/img/spr-quote-sm.png 1 http://www.tracyhamer.net/samTest.html
+/img/bg-features.jpg 1 http://www.tracyhamer.net/samTest.html
+/img/lgo-sprint-lg.png 1 http://www.tracyhamer.net/samTest.html
+/img/img-phone1.png 1 http://www.tracyhamer.net/samTest.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 55
+99.52.202.79 274 2900 57475305 20111128143442
+68.166.33.227 25 565 15564093 20111115165656
+198.241.217.15 21 336 16801198 20111128110320
+8.21.4.254 4 4 72455 20111128110317
+184.73.92.227 3 3 61493 20111111191142
+184.8.119.239 3 39 3551438 20111107193352
+24.20.52.38 2 38 3479509 20111110215601
+64.88.164.100 2 2 113047 20111123031507
+24.113.244.40 2 38 3479509 20111114114100
+66.87.71.238 2 75 7335805 20111110164327
+165.196.0.23 2 73 6767968 20111116110541
+69.58.178.57 2 2 38392 20111113182634
+184.73.172.213 2 2 35506 20111109131542
+173.193.216.83 2 2 38392 20111116053908
+24.10.14.215 2 38 3479509 20111110164608
+67.159.28.198 1 1 19196 20111109231651
+173.13.155.62 1 35 3378835 20111109193742
+50.16.119.63 1 1 19196 20111109141201
+50.16.42.187 1 1 19196 20111109141115
+46.4.95.200 1 1 19196 20111123223831
+67.180.55.12 1 35 3378835 20111111021244
+65.78.145.32 1 37 3385658 20111112211035
+50.17.249.10 1 1 17753 20111101141926
+72.14.202.87 1 2 81621 20111107024401
+98.238.234.174 1 35 3378835 20111114001006
+72.14.202.86 0 3 447266 
+64.233.182.82 0 2 58517 
+72.14.202.82 0 1 243450 
+72.14.202.81 0 4 450266 
+72.14.202.80 0 4 257404 
+72.14.202.84 0 7 770435 
+64.233.182.83 0 1 38846 
+64.233.182.88 0 3 596451 
+72.14.202.90 0 2 312724 
+72.14.202.88 0 4 503853 
+64.233.182.86 0 2 345200 
+64.233.182.90 0 3 16128 
+64.233.182.91 0 1 154252 
+72.14.202.89 0 3 144907 
+64.233.182.89 0 2 16781 
+76.212.4.83 1 37 3385658 20111110121130
+64.233.182.84 0 5 404549 
+166.205.13.175 1 35 3378835 20111111115850
+72.14.202.91 0 4 130336 
+64.233.182.85 0 7 1397915 
+38.100.21.15 1 2 31521 20111115025011
+98.245.112.50 1 37 3385658 20111111013651
+50.19.7.233 1 1 19196 20111109141112
+50.16.115.49 1 1 17753 20111108142149
+76.246.52.188 1 34 3335205 20111106230904
+174.253.242.229 1 37 3385658 20111118150651
+93.80.203.113 1 32 3328382 20111106111948
+95.24.196.7 1 10 1402126 20111106083957
+64.233.182.81 0 3 268110 
+72.14.202.83 1 1 17753 20111107024403
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20111101 43 1141 34123722 5
+20111102 67 84 3164808 1
+20111103 118 525 9030555 3
+20111104 17 82 539472 1
+20111105 4 39 3453406 2
+20111106 3 76 8065713 3
+20111107 18 329 16159600 10
+20111108 21 332 8847746 10
+20111109 26 558 14657746 12
+20111110 6 152 14298171 4
+20111111 5 145 13528986 5
+20111112 1 37 3385658 1
+20111113 2 2 38392 1
+20111114 4 110 10244002 3
+20111115 2 39 3417179 2
+20111116 3 38 3420702 2
+20111118 1 37 3385658 1
+20111120 8 282 3476516 1
+20111121 10 350 127361 1
+20111123 3 3 132243 2
+20111128 7 191 6739439 3
+20111129 0 2 0 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 6
+5mn-15mn 6
+30s-2mn 3
+2mn-5mn 3
+15mn-30mn 3
+0s-30s 45
+30mn-1h 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/samTest.html 206 5070859 7 7
+/ 153 2056594 64 59
+/resumeTracyHamer.pdf 6 563106 1 5
+/aussieTest.html 2 8094 1 1
+/index.php 2 35506 0 1
+END_SIDER

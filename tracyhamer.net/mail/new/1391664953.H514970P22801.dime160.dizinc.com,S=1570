@@ -1,0 +1,38 @@
+Return-path: <>
+Envelope-to: tracyham@dime160.dizinc.com
+Delivery-date: Thu, 06 Feb 2014 00:35:53 -0500
+Received: from mailnull by dime160.dizinc.com with local (Exim 4.80.1)
+	id 1WBHcv-0005vg-6U
+	for tracyham@dime160.dizinc.com; Thu, 06 Feb 2014 00:35:53 -0500
+X-Failed-Recipients: tracy.hamer@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@dime160.dizinc.com>
+To: tracyham@dime160.dizinc.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1WBHcv-0005vg-6U@dime160.dizinc.com>
+Date: Thu, 06 Feb 2014 00:35:53 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  tracy.hamer@gmail.com
+    SMTP error from remote mail server after end of data:
+    host tree.mfilter.dimenoc.com [72.29.89.3]: 554 5.7.0 Reject, id=04092-09 qCzHhk4QE-7g:6 - SPAM. See http://tree.mfilter.dimenoc.com/block
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <tracyham@dime160.dizinc.com>
+Received: from tracyham by dime160.dizinc.com with local (Exim 4.80.1)
+	(envelope-from <tracyham@dime160.dizinc.com>)
+	id 1WBHct-0005vW-UZ
+	for tracy.hamer@gmail.com; Thu, 06 Feb 2014 00:35:52 -0500
+To: tracy.hamer@gmail.com
+Subject: test subject
+X-PHP-Script: www.tracyhamer.net/sendEmail.php for 76.103.47.101
+From: belaqua84@yahoo.com
+Message-Id: <E1WBHct-0005vW-UZ@dime160.dizinc.com>
+Date: Thu, 06 Feb 2014 00:35:51 -0500
+
+test message

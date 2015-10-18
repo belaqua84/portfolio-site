@@ -1,0 +1,558 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201306 will be lost/reset.
+# Last config file used to build this data file was /home/tracyham/tmp/awstats/awstats.tracyhamer.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2008                
+POS_TIME 2666                
+POS_VISITOR 14714               
+POS_DAY 15686               
+POS_DOMAIN 3344                
+POS_LOGIN 3653                
+POS_ROBOT 3808                
+POS_WORMS 4251                
+POS_EMAILSENDER 4382                
+POS_EMAILRECEIVER 4525                
+POS_SESSION 16050               
+POS_SIDER 16197               
+POS_FILETYPES 4660                
+POS_DOWNLOADS 4827                
+POS_OS 4910                
+POS_BROWSER 5021                
+POS_SCREENSIZE 5240                
+POS_UNKNOWNREFERER 5314                
+POS_UNKNOWNREFERERBROWSER 5651                
+POS_ORIGIN 6026                
+POS_SEREFERRALS 6159                
+POS_PAGEREFS 6314                
+POS_SEARCHWORDS 6521                
+POS_KEYWORDS 6690                
+POS_MISC 2330                
+POS_ERRORS 6766                
+POS_CLUSTER 3509                
+POS_SIDER_404 6863                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130701001649 1 0 8634822958194
+FirstTime 0
+LastTime 20130628171637
+LastUpdate 20130702003852 1 0 0 0 0
+TotalVisits 18                  
+TotalUnique 17                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 26                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 3 7 213968
+1 0 0 0 0 5 14406
+2 2 2 38392 3 21 526407
+3 1 12 595585 4 18 546238
+4 0 0 0 12 25 236078
+5 1 2 31518 1 15 238957
+6 1 1 19196 0 14 106173
+7 0 0 0 4 12 76784
+8 1 4 73660 12 24 420177
+9 1 1 19196 6 14 544278
+10 0 0 0 3 13 98170
+11 0 0 0 1 14 19196
+12 0 0 0 9 26 249741
+13 3 3 57588 2 7 78974
+14 1 1 19196 15 25 510641
+15 5 7 283682 7 23 535483
+16 3 39 3401441 6 14 115176
+17 3 38 3469273 3 5 57588
+18 0 1 294241 3 12 318013
+19 1 1 19196 4 9 189741
+20 0 0 0 4 10 252983
+21 0 2 42142 4 11 170635
+22 0 0 0 19 291 33308
+23 0 0 0 0 5 78825
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 17 104 7818896
+lt 3 3 57588
+fr 1 2 113047
+lv 1 1 19196
+nl 1 1 19196
+gb 0 1 294241
+cn 0 2 42142
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+bot[\s_+:,\.\;\/\\-] 88 1791531 20130630142739 0
+[\s_+:,\.\;\/\\-]bot 81 4892 20130630143953 0
+spider 45 2964536 20130630063155 0
+googlebot 13 267312 20130630144424 0
+msnbot\-media 7 526885 20130628103131 0
+no_user_agent 1 19196 20130627093948 0
+netcraft 1 19196 20130607211257 0
+crawl 1 19196 20130603035456 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 4 49288 0 0
+png 71 7314928 0 0
+html 23 422312 0 0
+pdf 4 375404 0 0
+jpg 3 13611 0 0
+js 9 188763 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/resumeTracyHamer.pdf 14 0 1313914
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 8
+winxp 2
+winlong 1
+java 2
+linux 12
+win7 49
+macosx 36
+win2003 6
+Unknown 6
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 13
+iphone 35
+chrome18.0.1025.162 1
+mozilla 10
+firefox1.0 1
+firefox14.0.1 3
+msie7.0 7
+firefox6.0 3
+firefox21.0 37
+firefox3.6.3 1
+lynx 4
+Unknown 9
+minefield 2
+safari5.0.5 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Python-urllib/2.6 20130619063630
+Lynx/2.8.6rel.4_libwww-FM/2.14_SSL-MM/1.4.1_OpenSSL/0.9.8g 20130612034057
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20130621023354
+Google/2.5.1.13455_CFNetwork/609_Darwin/13.0.0 20130623181148
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+Apache-HttpClient/4.2.3_(java_1.5) 20130628171637
+Python-urllib/2.6 20130619063630
+python-requests/1.2.1_CPython/2.7.4_Linux/3.8.0-21-generic 20130628150918
+Google/2.5.1.13455_CFNetwork/609_Darwin/13.0.0 20130623181148
+python-requests/1.2.0_CPython/2.7.4_Linux/3.8.0-21-generic 20130628150918
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 20 26
+From1 0 0
+From2 1 1
+From3 1 1
+From4 1 86
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://evuln.com/tools/malware-scanner/tracyhamer.net/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+tracyhamer.net 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+tracyhamer.net 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 1 19196
+404 357 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 241
+/KS_Inc/common.js 1 -
+/Themes/default/zh-cn/images/bbs_nav.jpg 1 -
+/Admin/images/al_top.gif 1 -
+/admin/images/bg-pay-return-success.gif 1 -
+/admin/imgs/starno.gif 1 -
+/admin.php 1 -
+/base/templates/images/2.png 1 -
+/admin/Image/Login_tit.gif 1 -
+/admin/images/left_nav.jpg 1 -
+/images/admin/readme.gif 1 -
+/themes/admin/images/logo.png 1 -
+/images/index_24.jpg 1 -
+/images/lzbg12.gif 1 -
+/admin/Image/title.gif 1 -
+/inc/images/logo.png 1 -
+/data/setmealimg/3.gif 1 -
+/admin/editor/xheditor_skin/default/img/tag-h4.gif 1 -
+/mobile/images/redirect_icon.png 1 -
+/login/images/toolbar_back2.gif 1 -
+/wap/templates/met/images/listico.gif 1 -
+/jscal/src/css/img/cool-bg.png 1 -
+/static/ayacms.gif 1 -
+/images-global/zoom/zoom-caption-fill.png 1 -
+/admin/system/images/login_background.jpg 2 -
+/Admin/images/install_logo.jpg 1 -
+/SiteServer/Services/AdministratorService.asmx 1 -
+/ADMIN/IMAGES/underline.gif 1 -
+/jscal/src/css/img/cool-bg-hard-inv.png 1 -
+/skin/skin3/login.gif 1 -
+/images/admina/sitmap0.png 1 -
+/Admin/images/t2_r1_c5.jpg 1 -
+/admin/images/step4.jpg 1 -
+/inc/image/bj.gif 1 -
+/Admin_Cy/Script/xselect.js 1 -
+/images/_m10.GIF 1 -
+/inc/qq.js 1 -
+/PLUGIN/BackupDB/plugin.xml 1 -
+/public/tinyMCE/themes/simple/img/icons.gif 1 -
+/DatePicker/skin/datePicker.gif 1 -
+/views/images/admin/login_toptitle.jpg 1 -
+/siteserver/pic/company/logo.gif 1 -
+/dede/templets/article_coonepage_rule.htm 1 -
+/admini/images/dt_admin_top_bg.png 1 -
+/wp-admin/images/wp-logo-2x.png 1 -
+/Admin/images/right.gif 1 -
+/admin/image/title.gif 1 -
+/admin/images/image_new.gif 1 -
+/static/sex0.jpg 1 -
+/administrator/ 1 -
+/install/images/logo.jpg 1 -
+/xin/bt.gif 1 -
+/image/watermark.gif 1 -
+/admin/images/admin_submit.jpg 1 -
+/shopdata/images/error_tips.gif 1 -
+/cn/images/banner_page_bg.gif 1 -
+/admin/images/admin_logo.png 1 -
+/member/images/member.gif 1 -
+/plus/img/wbg.gif 1 -
+/admin/images/netgather_com.gif 1 -
+/admin/discuzfiles.md5 1 -
+/wp-login.php 1 -
+/images/admina/logo.png 1 -
+/data/adflash.txt 1 -
+/member/templets/images/login_logo.gif 1 -
+/admin/images/login_button.jpg 1 -
+/wp-admin/js/media-upload.dev.js 1 -
+/data/smiliey/default/shy.gif 1 -
+/plus/weather/icon/a_12.gif 1 -
+/&quot 2 http://evuln.com/tools/malware-scanner/tracyhamer.net/
+/e/data/ecmseditor/images/blank.html 1 -
+/themes/README.txt 2 -
+/data/admin/ver.txt 2 -
+/images/Jobs_resume_up.gif 1 -
+/logo/01.gif 1 -
+/README.txt 1 -
+/Admin/Images/southidc.css 1 -
+/xin/btn_regis.gif 1 -
+/Vote/Img/skin/css_2/2_logo.gif 1 -
+/images/2/more.gif 1 -
+/member/images/base.css 1 -
+/images/admin/login/logo.png 1 -
+/license.txt 3 -
+/ACT_inc/ItemBg.gif 1 -
+/data/css/arrow-down-title.jpg 1 -
+/images/wp-background-preview-bg.gif 1 -
+/admin/help/zh_cn/database.xml 1 -
+/admin/views/style/green/style.css 1 -
+/static/image/admincp/bg_repno.gif 1 -
+/member/images/dzh_logo.gif 1 -
+/components/com_mailto/views/sent/metadata.xml 2 -
+/admin/images/logo.png 1 -
+/login.js 1 -
+/images/user_logo.GIF 1 -
+/skin/skin3/reg.gif 1 -
+/inc_img/vote/vote2_1.gif 1 -
+/KS_Inc/ajax.js 1 -
+/admin/skin/images/topbg.gif 1 -
+//components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/views/images/water.gif 1 -
+/_skins/free/images/top_menu_bg.jpg 1 -
+/Admin/Include/version.xml 2 -
+/qq/images/mid4.gif 1 -
+/images/act_1.gif 1 -
+/editor/themes/qq/editor.gif 1 -
+/images/admina/arrow.jpg 1 -
+/administrator/index.php 2 -
+/admin/images/login/index_hz03.gif 1 -
+/admin/images/left_menu.png 1 -
+/images/t4.gif 1 -
+/js/close.gif 1 -
+/admin/Images/del.gif 1 -
+/ad_duilian/close.gif 1 -
+/api/alipay/images/new-btn-fixed.png 1 -
+/ACT_inc/share/minusbottom.gif 1 -
+/admin/images/admin_left_6.gif 1 -
+/images/logo_wap.png 1 -
+/user/face/2.gif 1 -
+/data/adtool/theme/d2.jpg 1 -
+/images/qq/qqkf2/Kf_bg03_03.gif 1 -
+/images/jia.gif 1 -
+/adfile/ad9.js 1 -
+/Admin/images/al_end_right.gif 1 -
+/template/skin4/images/style.css 1 -
+/install/testdata/hdwikitest.sql 1 -
+/Admin/Images/logo.jpg 1 -
+/robots.txt 94 -
+/images/top-jlwm_.jpg 1 -
+/adminimages/title.GIF 1 -
+/member/images/bodyleft.gif 1 -
+/style/default/hdwiki.css 1 -
+/static/image/admincp/ajax_loader.gif 1 -
+/ADMIN/IMAGES/number.gif 1 -
+/theme/admin/images/upload.gif 1 -
+/Admin/images/login_r4_c4_r1_c1.jpg 1 -
+/inc/tools/iepngfix/blank.gif 1 -
+/API/api.config 1 -
+/licence.txt 2 -
+/Script/Html.js 1 -
+/admin/images/login_08.gif 1 -
+/wp-admin/ 1 -
+/images/logo_bg.jpg 1 -
+/member/skin/images/level_10.gif 1 -
+/inc/photo/loader.gif 1 -
+/install/images/bg-input.png 1 -
+/inc/image/m_tleft.png 1 -
+/images/ico1.jpg 1 -
+/images/qq/1.gif 1 -
+/images/by.nzcms.gif 1 -
+/page/system/inc/fun.js 1 -
+/admin/images/login/index_hz02.gif 1 -
+/images/images/message.gif 1 -
+/Admin/images/loading.gif 1 -
+/Admin/Images/Exit-Line.gif 1 -
+/plugin/images/netgather_com.gif 1 -
+/admin/images/login_06.jpg 1 -
+/admin/templates/met/images/logosmall.gif 1 -
+/admin/images/watermark.png 1 -
+/images/index_border1.gif 1 -
+/images/QQ/qqon5.gif 1 -
+/Inc/NoSqlHack.Asp 1 -
+/include/payment/logo/remittance.gif 1 -
+/js/upimg/subbotton.gif 1 -
+/admin/images/back.gif 1 -
+/templets/default/style/dedecms.css 3 -
+/admin/Inc/southidc.css 3 -
+/pic/logo.png 1 -
+/images/Arrow_02.gif 1 -
+/install/images/logo.gif 2 -
+/_skins/free/images/left_title_bg.jpg 1 -
+/public/plug/im/im_bg.png 1 -
+/setup/images/agree.jpg 1 -
+/Admin/Images/bg_admin.jpg 1 -
+/admin/images/top_banner.jpg 1 -
+/rss.xsl 2 -
+/.htaccess 1 -
+/img/images/commentLoad.gif 1 -
+/images/zoom.gif 1 -
+/xheditor/xheditor_plugins/multiupload/img/progressbg.gif 1 -
+/inc/img/qmiddle.png 1 -
+/admin/images/menu_title3a.jpg 1 -
+/install/images/00.png 1 -
+/404/emessage.gif 1 -
+/nz.ico 1 -
+/job/templates/met/css/style.css 1 -
+/admin/ckeditor/images/spacer.gif 1 -
+/images/admin/logo.gif 1 -
+/install/images/logo.png 1 -
+/static/js/admincp.js 1 -
+/apply/_notes/dwsync.xml 1 -
+/template/default/images/index_97.jpg 1 -
+/admin/images/login/login_submit.gif 1 -
+/install/images/guide_1.gif 1 -
+/admini/images/dt_admini_bottom_logo.gif 1 -
+/office/images/login/ico.gif 1 -
+/a_d/install/data.sql 1 -
+/admin/images/top.gif 1 -
+/images/bg1.gif 1 -
+/data/admin/allowurl.txt 4 -
+/inc/images/watermark.png 1 -
+/Admin/images/admin.js 1 -
+/admin/ecshopfiles.md5 1 -
+/install/templates/images/link_bg.gif 1 -
+/dede/img/admin_top_logo.gif 1 -
+/images/adminlogoin.gif 1 -
+/lib/images/tip_layer.png 1 -
+/adminsoft/templates/images/login_line.png 1 -
+/htaccess.txt 2 -
+/admin/SouthidcEditor/Include/Editor.js 1 -
+/adminsoft/templates/images/login_title.png 1 -
+/wp-content/themes/twentyten/images/wordpress.png 1 -
+/template/skin4/images/logo.png 1 -
+/images/admin/sprites.png 1 -
+/images/reg.gif 1 -
+/Themes/default/zh-cn/images/CertificateLogo.jpg 1 -
+/images/default/loading.gif 1 -
+/static/image/admincp/logo.gif 1 -
+/inc/yucmedia/Media/img/direct/reload2.gif 1 -
+/install/images/default/section_bottom.jpg 1 -
+/install/images/steptab.png 1 -
+/admin/template/images/site_logo.png 1 -
+/License.txt 3 -
+/lib/web/js/source/form/form.js 1 -
+/images/tv_ico.gif 1 -
+/images/yi.png 1 -
+/images/usercp_usergroups.gif 1 -
+/SouthidcEditor/sysimage/icon32xls.gif 1 -
+/images/luzhu.gif 1 -
+/plugin/raty/img/star-half.png 1 -
+/system/images/logo.png 1 -
+/images/logo.gif 1 -
+/install/style.css 1 -
+/images/adm/left_menus1.gif 1 -
+/question/images/face/images/ico_face_arrow.gif 1 -
+/views/images/install/set01_top_nav.gif 1 -
+/admin/images/top_tt_bg.gif 1 -
+/install/images/bg-cmstop.jpg 1 -
+/index.php 1 -
+/e/tool/feedback/temp/test.txt 1 -
+/ewebeditor/KindEditor.js 2 -
+/admin/imgs/login_04.jpg 1 -
+/wap/templates/default/images/nv_r2_c1.gif 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 26
+50.16.122.232 3 3 57588 20130628150918
+78.158.11.226 3 3 57588 20130621023354
+69.58.178.56 2 2 38392 20130613135411
+107.21.134.166 2 2 19196 20130628171637
+65.55.218.59 1 1 19196 20130625085455
+107.21.176.107 1 1 19196 20130623132443
+178.33.178.15 1 2 113047 20130612034054
+184.22.211.146 1 1 19196 20130615154046
+46.229.167.149 1 1 19196 20130628142500
+38.100.21.68 1 2 31518 20130618052152
+50.57.68.10 1 1 19196 20130624165712
+209.49.111.33 1 37 3363049 20130624165501
+166.147.72.49 1 35 3356226 20130607173803
+74.52.245.146 1 1 19196 20130627161741
+184.22.183.114 1 1 19196 20130615154045
+195.3.146.94 1 1 19196 20130615095247
+199.80.54.252 1 1 19196 20130619063630
+65.55.212.70 0 1 12322 
+131.253.26.236 0 1 20195 
+65.55.215.244 0 1 93851 
+54.226.3.85 0 2 187702 
+220.181.108.172 0 1 21947 
+85.210.104.25 0 1 294241 
+220.181.108.174 0 1 20195 
+199.30.25.103 0 10 482538 
+65.55.218.44 0 1 21947 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 14
+20130602 0 10 482538 0
+20130604 1 2 113047 1
+20130607 1 35 3356226 1
+20130612 1 2 113047 1
+20130613 2 2 38392 1
+20130615 3 3 57588 3
+20130618 1 2 31518 1
+20130619 1 1 19196 1
+20130621 2 2 38392 1
+20130623 1 2 313437 1
+20130624 2 38 3382245 2
+20130625 1 6 115802 1
+20130627 1 1 19196 1
+20130628 6 8 283682 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 18
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 23 422312 18 18
+END_SIDER

@@ -1,0 +1,375 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201308 will be lost/reset.
+# Last config file used to build this data file was /home/tracyham/tmp/awstats/awstats.tracyhamer.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2008                
+POS_TIME 2685                
+POS_VISITOR 8223                
+POS_DAY 9857                
+POS_DOMAIN 3393                
+POS_LOGIN 3748                
+POS_ROBOT 3903                
+POS_WORMS 4381                
+POS_EMAILSENDER 4512                
+POS_EMAILRECEIVER 4655                
+POS_SESSION 10433               
+POS_SIDER 10580               
+POS_FILETYPES 4790                
+POS_DOWNLOADS 4960                
+POS_OS 5043                
+POS_BROWSER 5168                
+POS_SCREENSIZE 5451                
+POS_UNKNOWNREFERER 5525                
+POS_UNKNOWNREFERERBROWSER 5796                
+POS_ORIGIN 6055                
+POS_SEREFERRALS 6189                
+POS_PAGEREFS 6363                
+POS_SEARCHWORDS 6570                
+POS_KEYWORDS 6753                
+POS_MISC 2349                
+POS_ERRORS 6845                
+POS_CLUSTER 3604                
+POS_SIDER_404 6942                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130901005458 16 2309 8349745652714
+FirstTime 20130801191835
+LastTime 20130831110112
+LastUpdate 20130901054607 16 0 15 0 0
+TotalVisits 33                  
+TotalUnique 32                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 44                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 19 2128100 1 7 178586
+1 2 3 132243 3 16 531899
+2 1 4 895493 2 12 600641
+3 1 1 0 6 15 115176
+4 0 0 0 4 17 882698
+5 1 3 61338 10 32 574269
+6 1 1 0 1 13 113268
+7 0 0 0 3 18 397796
+8 0 0 0 1 3 225072
+9 0 0 0 13 32 1591759
+10 1 1 19196 6 20 714709
+11 2 22 2217873 2 10 132243
+12 3 3 57588 6 22 869766
+13 0 0 0 10 25 410263
+14 4 39 3417162 3 11 552394
+15 0 2 42142 15 24 531390
+16 5 42 3533684 2 17 197469
+17 0 0 0 3 15 536031
+18 1 2 113047 2 10 226094
+19 2 5 92856 12 22 276660
+20 5 5 95980 2 14 908985
+21 0 2 229844 11 22 300208
+22 3 3 57588 0 7 599132
+23 1 35 3356226 1 14 649124
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 18 130 11538041
+jp 5 5 95980
+cn 3 7 141872
+ru 2 2 19196
+nl 2 2 38392
+lt 2 2 38392
+de 2 2 132243
+br 1 37 3363049
+fr 1 2 113047
+ph 0 3 876297
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+[\s_+:,\.\;\/\\-]bot 104 5464349 20130814173431 0
+bot[\s_+:,\.\;\/\\-] 92 3100876 20130831190302 0
+spider 45 2650669 20130831212601 0
+googlebot 29 595035 20130831060037 0
+msnbot\-media 3 121746 20130822054844 0
+robot 2 31518 20130826163130 0
+no_user_agent 1 93851 20130825040557 0
+netcraft 1 19196 20130809145600 0
+crawl 1 19196 20130831214146 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 6 73932 0 0
+png 128 14942154 0 0
+html 36 614272 0 0
+pdf 3 375404 0 0
+jpg 3 13611 0 0
+js 16 337136 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/resumeTracyHamer.pdf 16 1 1595467
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 9
+winxp 2
+winlong 10
+winnt 1
+winvista 36
+linux 16
+win7 79
+macosx 37
+win2003 6
+Unknown 6
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 18
+msie6.0 2
+chrome28.0.1500.95 73
+firefox4.0 2
+chrome29.0.1547.62 3
+lynx 2
+msie5.5 1
+netscape4.73 1
+minefield 4
+opera9.80 1
+mozilla 36
+msie7.0 14
+firefox14.0.1 2
+msie10.0 36
+firefox6.0 5
+firefox3.5.9 1
+firefox3.6.3 2
+wget 1
+Unknown 7
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20130826205200
+panscient.com 20130817050451
+ScreenerBot_Crawler_Beta_2.0_(_http://www.ScreenerBot.com) 20130831214147
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+python-requests/1.1.0_CPython/2.7.4_Linux/3.8.0-19-generic 20130822001853
+panscient.com 20130817050451
+ScreenerBot_Crawler_Beta_2.0_(_http://www.ScreenerBot.com) 20130831214147
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 32 39
+From1 0 0
+From2 2 6
+From3 1 1
+From4 1 147
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 1 1
+bing 0 1
+yahoo 1 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://evuln.com/tools/malware-scanner/tracyhamer.net/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+tracy+hamer 1
+tracyhamer.net 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+tracy 1
+hamer 1
+tracyhamer.net 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 1 19196
+404 115 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 18
+/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/robots.txt 97 -
+/fck/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/&quot 1 -
+/admin/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/admin/fckeditor/editor/filemanager/connectors/php/connector.php 1 -
+/apple-touch-icon.png 1 -
+/wp-includes/js/tinymce/wp-mce-help.php 1 -
+/admin/FCKeditor/editor/filemanager/connectors/php/connector.php 1 -
+/FCKeditor/editor/filemanager/connectors/php/connector.php 1 -
+/check_configuration.php 1 http://tracyhamer.net/check_configuration.php
+/fckeditor/editor/filemanager/connectors/php/connector.php 1 -
+/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/index.php 1 -
+/wp-login.php 2 -
+/fck/editor/filemanager/connectors/php/connector.php 1 -
+/FCK/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/FCK/editor/filemanager/connectors/php/connector.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 44
+119.63.193.131 2 2 38392 20130825205836
+69.58.178.57 2 2 38392 20130813142923
+184.22.183.114 2 2 38392 20130821161234
+78.158.11.226 2 2 38392 20130826205200
+46.229.170.197 1 1 19196 20130829100725
+186.192.87.68 1 37 3363049 20130809162811
+46.0.193.105 1 1 19196 20130801191835
+184.22.211.146 1 2 113047 20130805183712
+206.225.83.83 1 1 19196 20130823015408
+202.46.63.47 1 1 19196 20130810164025
+46.229.167.149 1 1 19196 20130808121640
+144.76.113.197 1 1 19196 20130831110112
+50.143.150.22 1 35 3356226 20130827231745
+65.55.218.42 1 1 19196 20130807193920
+174.129.172.148 1 1 0 20130822001853
+119.63.193.132 1 1 19196 20130822225014
+96.227.124.38 1 1 19196 20130819143901
+54.211.123.159 1 1 19196 20130826202034
+176.31.14.28 1 2 113047 20130817013501
+46.242.25.172 1 1 0 20130813000726
+107.22.68.157 1 1 19196 20130819020458
+119.63.193.196 1 1 19196 20130829124151
+202.46.58.23 1 1 19196 20130825205749
+54.211.54.45 1 1 0 20130812033525
+38.100.21.66 1 2 31518 20130816115439
+112.207.228.143 0 3 876297 
+65.55.212.82 0 1 20195 
+184.19.73.162 0 1 159390 
+220.181.108.141 0 1 20195 
+198.50.242.96 0 1 93851 
+131.253.24.145 0 1 12322 
+220.181.108.152 0 1 21947 
+131.253.26.242 0 1 21947 
+220.181.108.181 0 1 20195 
+199.30.25.13 0 19 2167159 
+5.9.149.166 1 1 19196 20130820225546
+173.70.141.147 1 3 61338 20130817050448
+119.63.193.130 1 1 19196 20130818225018
+65.55.217.219 1 16 1968710 20130813001211
+202.46.51.44 1 1 19196 20130829124139
+46.165.230.206 0 1 93851 
+220.181.108.160 0 1 21947 
+71.9.38.31 1 36 3359574 20130806144123
+54.234.183.64 1 1 0 20130821065354
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20130801 1 1 19196 1
+20130804 0 2 42142 0
+20130805 1 2 113047 1
+20130806 1 36 3359574 1
+20130807 1 4 73660 1
+20130808 1 1 19196 1
+20130809 1 37 3363049 1
+20130810 2 2 38392 2
+20130812 1 1 0 1
+20130813 4 20 2166492 3
+20130816 1 4 73660 1
+20130817 2 5 174385 2
+20130818 1 1 19196 1
+20130819 2 2 38392 2
+20130820 1 1 19196 1
+20130821 3 23 2299402 2
+20130822 2 2 19196 2
+20130823 1 1 19196 1
+20130825 2 2 38392 2
+20130826 3 3 57588 2
+20130827 1 35 3356226 1
+20130828 0 3 876297 0
+20130829 3 3 57588 3
+20130831 1 1 206898 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 33
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 36 614272 33 33
+END_SIDER
